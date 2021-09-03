@@ -348,7 +348,8 @@ body {
 	.content_type_clase_escholariumrea .publisher-navbar {
 		position: fixed;
 		top: 44px;
-		background: #e5f2e2;
+		/*background: #e5f2e2; original */
+		background: #8bbc84;
 		width: 100%;
 		left: 0;
 		height: 70 px;
