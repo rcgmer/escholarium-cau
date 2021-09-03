@@ -515,7 +515,7 @@ body {
 /* Iconos */
 
 #actividad .player.audio {
-	background: url(images/escholariumrea_audio.png) 0 0 no-repeat;
+	background: url(Images/escholariumrea_audio.png) 0 0 no-repeat;
 	background-size: contain;
 	width: 36px;
 	height:24px;
@@ -525,7 +525,7 @@ body {
 }
 
 #actividad .player.video {
-	background: url(images/escholariumrea_video.png) 0 0 no-repeat;
+	background: url(Images/escholariumrea_video.png) 0 0 no-repeat;
 	background-size: contain;
 	width: 36px;
 	height:24px;
@@ -1035,7 +1035,7 @@ ol.bck-ol.bck-ol-1 li {
 /* Icons */
 
 #actividad .player.audio {
-	background: url(images/Icon_audio.png) center center / cover;
+	background: url(Images/escholariumrea_audio.png) center center / cover;
 }
 
 .item-container .icon:before {
@@ -1054,27 +1054,27 @@ ol.bck-ol.bck-ol-1 li {
 }
 
 .item-container .icon-ordenador:before {
-	background-image: url(images/icono0008072018.png);
+	background-image: url(Images/icono0008072018.png);
 }
 
 .item-container .icon-bombilla:before {
-	background-image: url(images/icono0003072018.png);
+	background-image: url(Images/icono0003072018.png);
 }
 
 .item-container .icon-quimica:before {
-	background-image: url(images/icono0007072018.png);
+	background-image: url(Images/icono0007072018.png);
 }
 
 .item-container .icon-birrete:before {
-	background-image: url(images/icono0006072018.png);
+	background-image: url(Images/icono0006072018.png);
 }
 
 .item-container .icon-libro:before {
-	background-image: url(images/icono0004072018.png);
+	background-image: url(Images/icono0004072018.png);
 }
 
 .item-container .icon-lapiz:before {
-	background-image: url(images/icono0005072018.png);
+	background-image: url(Images/icono0005072018.png);
 }
 
 /**/
