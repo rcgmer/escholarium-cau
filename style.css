@@ -397,7 +397,7 @@ body {
     margin-right: 60px;
     float: left;
     margin-top: -10px;
-    background-size: cover;
+    background-size: contain;
     display: block;
 }
 
